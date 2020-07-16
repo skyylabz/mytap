@@ -24,3 +24,27 @@
       color: black;
       font-size: 15pt;
   }
+
+
+  @media screen and (max-width: 600px) {
+    .card-title,.emailTo,.call{
+      font-size: 22pt!important;
+      color: #263238;
+      font-weight: bold !important;
+  }
+  .warning{
+    font-size: 12pt;
+}
+  }
+  
+  @media screen and (max-width: 480px) {
+    .card-title,.emailTo,.call{
+        font-size: 22pt!important;
+        color: #263238;
+        font-weight: bold !important;
+    }
+    .warning{
+        font-size: 12pt;
+    }
+  }
+
