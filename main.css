@@ -28,13 +28,13 @@
 
   @media screen and (max-width: 600px) {
     .card-title,.emailTo,.call{
-      font-size: 22pt!important;
+      font-size: 15pt!important;
       color: #263238;
-      font-weight: bold !important;
+      font-weight: bolder !important;
     }
     .call{
-      font-size: 21pt!important;
-  
+      font-size: 16pt!important;
+      font-weight: bolder !important;
     }
     .warning{
       font-size: 12pt;
@@ -43,12 +43,14 @@
   
   @media screen and (max-width: 480px) {
     .card-title,.emailTo,.call{
-        font-size: 22pt!important;
+        font-size: 15pt!important;
         color: #263238;
-        font-weight: bold !important;
+        font-weight: bolder !important;
     }
     .call{
-      font-size: 21pt!important;
+      font-size: 16pt!important;
+      font-weight: bolder !important;
+
     
   }
     .warning{
