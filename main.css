@@ -43,6 +43,10 @@
         color: #263238;
         font-weight: bold !important;
     }
+    .call{
+      font-size: 21pt!important;
+    
+  }
     .warning{
         font-size: 12pt;
     }
