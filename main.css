@@ -31,10 +31,14 @@
       font-size: 22pt!important;
       color: #263238;
       font-weight: bold !important;
-  }
-  .warning{
-    font-size: 12pt;
-}
+    }
+    .call{
+      font-size: 21pt!important;
+  
+    }
+    .warning{
+      font-size: 12pt;
+    }
   }
   
   @media screen and (max-width: 480px) {
