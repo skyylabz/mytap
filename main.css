@@ -27,7 +27,7 @@
 
 
   @media screen and (max-width: 600px) {
-    .card-title,.emailTo,.call{
+    .emailTo,.call{
       font-size: 15pt!important;
       color: #263238;
       font-weight: bolder !important;
@@ -36,13 +36,16 @@
       font-size: 16pt!important;
       font-weight: bolder !important;
     }
+    .card-title{
+      font-size: 22pt!important;
+    }
     .warning{
       font-size: 12pt;
     }
   }
   
   @media screen and (max-width: 480px) {
-    .card-title,.emailTo,.call{
+    .emailTo,.call{
         font-size: 15pt!important;
         color: #263238;
         font-weight: bolder !important;
@@ -50,9 +53,10 @@
     .call{
       font-size: 16pt!important;
       font-weight: bolder !important;
-
-    
-  }
+    }
+    .card-title{
+      font-size: 22pt!important;
+     }
     .warning{
         font-size: 12pt;
     }
